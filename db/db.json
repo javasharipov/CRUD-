@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "Javohir",
+      "nickname": "javasharipov",
+      "password": "Bukhara2006",
+      "gender": "male"
+    },
+    {
+      "id": "2",
+      "name": "Muhammadjon",
+      "nickname": "qoribek",
+      "password": "orbitichka",
+      "gender": "male"
+    },
+    {
+      "id": "3",
+      "name": "Xoji",
+      "nickname": "xojibek",
+      "password": "xoji001",
+      "gender": "male"
+    },
+    {
+      "id": "91ff",
+      "name": "Ozod",
+      "nickname": "Tolipov",
+      "password": "Bukhara2006",
+      "gender": "male"
+    }
+  ]
+}
